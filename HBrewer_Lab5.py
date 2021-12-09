@@ -195,4 +195,4 @@ print("According to the final output .tif, the areas with the best coefficient o
 "this is likely precipitation. Eastern slopes are in a rain shadow, and southern slopes \n"
 "receive the most sun, which will impact how much moisture absorption and retention vegetation has. \n"
 "Finally, erosion and runoff are big issues after fire, so the moisture received on steeper slopes \n"
-"was not as utilizable to the recovering vegetation there.")
+"was not as utilizable to the recovering vegetation there")
